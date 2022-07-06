@@ -115,7 +115,7 @@ Isso significa que ela garante a formatação ideal para sites.</h4>
 <script>
     window.alert("meu sait")
     window.confirm("jogar na sexta")
-    window.prompt("rapadura")
+    window.prompt("olá mundo")
 </script>
 
 <script>
